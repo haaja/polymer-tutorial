@@ -1,14 +1,14 @@
 [
   {
     "uid": 1,
-    "text" : "Have you heard about the Web Components revolution?",
-    "username" : "Eric",
+    "text" : "What is this thing?",
+    "username" : "Elina",
     "avatar" : "../images/avatar-01.svg",
     "favorite": false
   },
   {
     "uid": 2,
-    "text" : "Loving this Polymer thing.",
+    "text" : "Polymer project seems cool.",
     "username" : "Rob",
     "avatar" : "../images/avatar-02.svg",
     "favorite": false
